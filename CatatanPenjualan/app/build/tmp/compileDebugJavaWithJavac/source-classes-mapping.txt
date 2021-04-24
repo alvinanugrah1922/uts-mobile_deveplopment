@@ -1,0 +1,2 @@
+com/alvin/uts_18090121/BuildConfig.java
+ com.alvin.uts_18090121.BuildConfig
